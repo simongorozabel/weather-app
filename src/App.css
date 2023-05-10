@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.title {
+  background: linear-gradient(gold, white);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.weather {
+  background: linear-gradient(#242424, lightblue);
+  border-radius: 50%;
+  padding: 10px;
+}
+.country {
+  background: linear-gradient(gold, black);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 900;
+}
